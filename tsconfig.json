@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "types": ["vue-router", "vue"],
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "strict": true,
+      "jsx": "preserve",
+      "experimentalDecorators": true,
+      "jsxFactory": "h",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist" // Directorio de salida separado
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.tsx",
+      "src/**/*.vue"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  
