@@ -1,4 +1,4 @@
-# nuron
+# Swells
 
 ## Project setup
 ```
